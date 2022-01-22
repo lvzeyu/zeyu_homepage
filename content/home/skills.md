@@ -20,14 +20,22 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- #description: 10%
+  icon: python
+  icon_pack: fab
+  name: Python
 - #description: 100%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- #description: 10%
-  icon: python
+- #description: 100%
+  icon: comment-dots
   icon_pack: fas
-  name: Python
+  name: NLP
+- #description: 100%
+  icon: chart-line
+  icon_pack: fab
+  name: Graph Machine Learning
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
