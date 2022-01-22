@@ -47,11 +47,14 @@ social:
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=W1k3wDIAAAAJ&hl
 - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: ai
   link: https://orcid.org/0000-0002-4665-9658
+- icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Lyu-Zeyuß
 - icon: researcherid  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://researchmap.jp/lyuzeyu
