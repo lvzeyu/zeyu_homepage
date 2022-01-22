@@ -46,9 +46,15 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=W1k3wDIAAAAJ&hl=ja
+  link: https://scholar.google.com/citations?user=W1k3wDIAAAAJ&hl
+- icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://orcid.org/0000-0002-4665-9658
+- icon: researcherid  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://researchmap.jp/lyuzeyu
 - icon: github
   icon_pack: fab
   link: https://github.com/lvzeyu
