@@ -37,7 +37,7 @@ experience:
     date_end: '2022-03-31'
     description: "Employ social media data and computational methods to investigate how exposed information can affect the formation of opinions and provide a more comprehensive understanding on political polarization."
 
-  - title: Sentiment analysis on social media: PC Supporter
+  - title: "PC Supporter"
     company: Graduate School/Faculty of Arts and Letters, Tohoku University
     company_url: ''
     company_logo: ""
