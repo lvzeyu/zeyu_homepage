@@ -38,7 +38,7 @@ experience:
     #location: California
     date_start: '2019-07-01'
     date_end: ''
-  #  description: The DIARE promotes the education of young world-class researchers capable of forging new research areas by merging different disciplines in collaboration with the students' original graduate schools. 
+    description: The DIARE promotes the education of young world-class researchers capable of forging new research areas by merging different disciplines in collaboration with the students' original graduate schools. 
 
   - title: DC2
     company: Research Fellowships for Young Scientists
@@ -46,7 +46,7 @@ experience:
     company_logo: dc
     #location: California
     date_start: '2020-04-01'
-    date_end: '2020-03-31'
+    date_end: '2022-03-31'
     #description: The DIARE promotes the education of young world-class researchers capable of forging new research areas by merging different disciplines in collaboration with the students' original graduate schools. 
 
 design:
