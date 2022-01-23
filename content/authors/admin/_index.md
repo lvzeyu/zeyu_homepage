@@ -56,7 +56,7 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Lyu-Zeyu
 - icon: researcherid  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: ai
   link: https://researchmap.jp/lyuzeyu
 #- icon: github
 #  icon_pack: fab
