@@ -53,8 +53,9 @@ experience:
     #location: California
     date_start: '2020-04-01'
     date_end: ''
-    description:|2-
+    description: |2-
         Responsibilities include:
+        
         * Social Survey
         * Data Analysis
         * Writing Papers
