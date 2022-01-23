@@ -22,15 +22,15 @@ feature:
   name: R
 - #description: 10%
   icon: python
-  icon_pack: fab
+  icon_pack: "custom"
   name: Python
 - #description: 100%
   icon: chart-line
-  icon_pack: fas
+  icon_pack: "custom"
   name: Statistics
 - #description: 100%
-  icon: comment-dots
-  icon_pack: fas
+  icon: nlp
+  icon_pack: "custom"
   name: NLP
 - #description: 100%
   icon: gnn
