@@ -1,5 +1,5 @@
 ---
-# An instance of the Accomplishments widget.
+# An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
@@ -7,15 +7,15 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Experience'
+title: Affiliation
 subtitle:
 
-# Date format
+# Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
+
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -23,7 +23,8 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Sentiment analysis on social media: Combining natural language processing and network analysis to examine how social media shape opinion dynamics
+  - title: Sentiment analysis on social media: Combining natural language processing and network analysis to examine how social media 
+    shape opinion dynamics
     company: The Division for Interdisciplinary Advanced Research and Education Research Grant
     company_url: ''
     company_logo: diare
