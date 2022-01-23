@@ -40,7 +40,7 @@ experience:
     date_end: ''
   #  description: The DIARE promotes the education of young world-class researchers capable of forging new research areas by merging different disciplines in collaboration with the students' original graduate schools. 
 
- - title: DC2
+  - title: DC2
     company: Research Fellowships for Young Scientists
     company_url: 'https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20J11407/'
     company_logo: dc
@@ -48,6 +48,7 @@ experience:
     date_start: '2020-04-01'
     date_end: '2020-03-31'
     #description: The DIARE promotes the education of young world-class researchers capable of forging new research areas by merging different disciplines in collaboration with the students' original graduate schools. 
+
 design:
   columns: '3'
 ---
