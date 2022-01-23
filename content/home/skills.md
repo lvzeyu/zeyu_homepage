@@ -25,7 +25,7 @@ feature:
   icon_pack: "custom"
   name: Python
 - #description: 100%
-  icon: statistics
+  icon: Statistics
   icon_pack: "custom"
   name: Statistics
 - #description: 100%
