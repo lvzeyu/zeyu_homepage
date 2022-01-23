@@ -34,7 +34,7 @@ feature:
   name: NLP
 - #description: 100%
   icon: chart-line
-  icon_pack: fab
+  icon_pack: fas
   name: Graph Machine Learning
 
 # Uncomment to use emoji icons.
