@@ -25,11 +25,11 @@ feature:
   icon_pack: "custom"
   name: Python
 - #description: 100%
-  icon: chart-line
+  icon: statistics
   icon_pack: "custom"
   name: Statistics
 - #description: 100%
-  icon: nlp
+  icon: languages
   icon_pack: "custom"
   name: NLP
 - #description: 100%
