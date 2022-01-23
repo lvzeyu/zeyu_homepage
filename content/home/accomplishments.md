@@ -48,8 +48,6 @@ item:
   title: 'Object-Oriented Programming in R'
   url: ""
 
-active: false
-
 design:
   columns: '2' 
 ---
