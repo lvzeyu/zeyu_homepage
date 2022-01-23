@@ -34,11 +34,11 @@ feature:
   name: NLP
 - #description: 100%
   icon: gnn
-  icon_pack: "custom"
+  icon_pack: fas
   name: Graph Machine Learning
 - #description: 100%
   icon: deep
-  icon_pack: "custom"
+  icon_pack: fas
   name: Deep Learning
 
 # Uncomment to use emoji icons.
