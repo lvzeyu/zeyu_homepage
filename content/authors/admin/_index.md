@@ -54,13 +54,13 @@ social:
   link: https://orcid.org/0000-0002-4665-9658
 - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Lyu-Zeyuß
+  link: https://www.researchgate.net/profile/Lyu-Zeyu
 - icon: researcherid  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://researchmap.jp/lyuzeyu
-- icon: github
-  icon_pack: fab
-  link: https://github.com/lvzeyu
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/lvzeyu
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
