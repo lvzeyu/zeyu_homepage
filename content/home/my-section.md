@@ -28,6 +28,15 @@ experience:
     date_end: '2020-03-31'
     description: "Investigate the opinion dynamics on social media through the combination of natural language processing and network analysis methods."
 
+  - title: "PC Supporter"
+    company: Graduate School/Faculty of Arts and Letters, Tohoku University
+    company_url: ''
+    company_logo: "tohoku"
+    #location: California
+    date_start: '2019-10-01'
+    date_end: ''
+    #description: Employ social media data and computational methods to investigate how exposed information can affect the formation of opinions and provide a more comprehensive understanding on political polarization.
+
   - title: "Investigating the mechanism political polarization on social media (PI)"
     company: Grant-in-Aid for JSPS Fellows
     company_url: 'https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20J11407/'
@@ -37,15 +46,6 @@ experience:
     date_end: '2022-03-31'
     description: "Employ social media data and computational methods to investigate how exposed information can affect the formation of opinions and provide a more comprehensive understanding on political polarization."
 
-  - title: "PC Supporter"
-    company: Graduate School/Faculty of Arts and Letters, Tohoku University
-    company_url: ''
-    company_logo: "tohoku"
-    #location: California
-    date_start: '2020-10-01'
-    date_end: ''
-    #description: Employ social media data and computational methods to investigate how exposed information can affect the formation of opinions and provide a more comprehensive understanding on political polarization.
-  
   - title:  "Research Collaborator (研究協力者)"
     company: "ビッグデータ分析と実験の統合によるオンライン社会における 場のダイナミクスの解析 (PI: Hiroki Takikawa)"
     company_url: 'https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H01563/'
