@@ -80,6 +80,6 @@ highlight_name: true
 ---
 
 Zeyu Lyu is a PhD candidate at the Computational Humanities and Social Sciences lab, Tohoku University. 
-His primary interests involve empolying big data and computational methods in the area of sociology, communication and politics.
+His primary interests involve employing big data and computational methods in the area of sociology, communication and politics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_zeyu_lyu.pdf" "newtab" >}}resumé{{< /staticref >}}.
