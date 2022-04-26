@@ -6,12 +6,12 @@ title: Zeyu Lyu
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate
+role: Project Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Computational Humanities and Social Sciences, Tohoku University
-  url: https://www.sal.tohoku.ac.jp/jp/research/specializations/lab/---id-37.html
+- name: Institute of Social Science, The University of Tokyo
+  url: https://jww.iss.u-tokyo.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computational Social Science, NLP, Applied Machine Learning and Political Communication.
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:lyu.zeyu.r8@dc.tohoku.ac.jp
+  link: mailto:lyu.zeyu@iss.u-tokyo.ac.jp
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -73,13 +73,13 @@ social:
   link: uploads/cv_zeyu_lyu.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: mailto:lyu.zeyu.r8@dc.tohoku.ac.jp
+email: mailto:lyu.zeyu@iss.u-tokyo.ac.jp
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Zeyu Lyu is a PhD candidate at the Computational Humanities and Social Sciences lab, Tohoku University. 
+Zeyu Lyu is a Project Researcher at the Institute of Social Science, The University of Tokyo. 
 His primary interests involve employing big data and computational methods in the area of sociology, communication and politics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_zeyu_lyu.pdf" "newtab" >}}resumé{{< /staticref >}}.
