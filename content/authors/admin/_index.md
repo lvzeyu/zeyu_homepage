@@ -70,7 +70,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/cv_zeyu_lyu.pdf
+  link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: mailto:lyu.zeyu@iss.u-tokyo.ac.jp
@@ -82,4 +82,4 @@ highlight_name: true
 Zeyu Lyu is a Project Researcher at the Institute of Social Science, The University of Tokyo. 
 His primary interests involve employing big data and computational methods in the area of sociology, communication and politics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_zeyu_lyu.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
