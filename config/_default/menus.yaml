@@ -12,7 +12,7 @@ main:
     weight: 20 
   - name: Skills
     url: '#skills'
-    weight: 50
+    weight: 60
   - name: Affiliation
     url: '#experience'
     weight: 40
