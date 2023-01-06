@@ -16,7 +16,7 @@ main:
   - name: Affiliation
     url: '#experience'
     weight: 40
-  - name: Experience
+  - name: Research Projects
     url: '#my-section'
     weight: 30
 
