@@ -79,7 +79,7 @@ email: mailto:lyu.zeyu@iss.u-tokyo.ac.jp
 highlight_name: true
 ---
 
-Zeyu Lyu is an Associate Professor at [Graduate School/Faculty of Arts and Letters, Tohoku University](https://www.sal.tohoku.ac.jp/en/). Previously,he was a Project Researcher at [the Institute of Social Science, The University of Tokyo](https://www.iss.u-tokyo.ac.jp/). 
+Zeyu Lyu is an Associate Professor at [Graduate School/Faculty of Arts and Letters, Tohoku University](https://www.sal.tohoku.ac.jp/en/). Previously, he was a Project Researcher at [the Institute of Social Science, The University of Tokyo](https://www.iss.u-tokyo.ac.jp/). 
 His primary interests involve employing big data and computational methods in the area of sociology, communication and politics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
