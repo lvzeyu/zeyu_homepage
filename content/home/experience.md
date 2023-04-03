@@ -23,13 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Associate Professor
+    company: Graduate School/Faculty of Arts and Letters
+    company_url: 'https://www.sal.tohoku.ac.jp/en/'
+    company_logo: tohoku
+    #location: California
+    date_start: '2023-04-01'
+    date_end: ''
+
   - title: Project Researcher
     company: Institute of Social Science
     company_url: 'https://jww.iss.u-tokyo.ac.jp/'
     company_logo: tokyo
     #location: California
     date_start: '2022-04-01'
-    date_end: ''
+    date_end: '2023-03-31'
 
   - title: DC2
     company: Research Fellowships for Young Scientists

@@ -6,7 +6,7 @@ title: Zeyu Lyu
 superuser: true
 
 # Role/position/tagline
-role: Project Researcher
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
