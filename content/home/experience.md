@@ -28,7 +28,7 @@ experience:
     company_logo: aie
     #location: California
     date_start: '2019-04-01'
-    date_end: ''
+    date_end: '2022-03-31'
     description: The program develops outstanding human resources for creating a new industrial field called Artificial Intelligence Electronics (AIE). In this field, the objective would be to conduct research and development on algorithms and computer programs for AI and artificial intelligence architecture.
         
   - title: DIARE
@@ -37,7 +37,7 @@ experience:
     company_logo: diare
     #location: California
     date_start: '2019-07-01'
-    date_end: ''
+    date_end: '2022-03-31'
     description: The DIARE promotes the education of young world-class researchers capable of forging new research areas by merging different disciplines in collaboration with the students' original graduate schools. 
 
   - title: DC2
