@@ -7,18 +7,19 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Skills
-    url: '#skills'
-    weight: 20
-  - name: Affiliation
-    url: '#experience'
-    weight: 30
-  - name: Experience
-    url: '#my-section'
-    weight: 40
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 20 
+  - name: Skills
+    url: '#skills'
+    weight: 60
+  - name: Affiliation
+    url: '#experience'
+    weight: 40
+  - name: Research Projects
+    url: '#my-section'
+    weight: 30
+
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60

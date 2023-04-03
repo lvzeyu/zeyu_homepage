@@ -22,6 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Project Researcher
+    company: Institute of Social Science
+    company_url: 'https://jww.iss.u-tokyo.ac.jp/'
+    company_logo: tokyo
+    #location: California
+    date_start: '2022-04-01'
+    date_end: ''
+
+  - title: DC2
+    company: Research Fellowships for Young Scientists
+    company_url: 'https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20J11407/'
+    company_logo: dc
+    #location: California
+    date_start: '2020-04-01'
+    date_end: '2022-03-31'
+
   - title: AIE
     company: WISE Program for AI Electronics
     company_url: 'https://www.aie.tohoku.ac.jp/english/'
@@ -39,16 +56,6 @@ experience:
     date_start: '2019-07-01'
     date_end: '2022-03-31'
     description: The DIARE promotes the education of young world-class researchers capable of forging new research areas by merging different disciplines in collaboration with the students' original graduate schools. 
-
-  - title: DC2
-    company: Research Fellowships for Young Scientists
-    company_url: 'https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20J11407/'
-    company_logo: dc
-    #location: California
-    date_start: '2020-04-01'
-    date_end: '2022-03-31'
-    #description: The DIARE promotes the education of young world-class researchers capable of forging new research areas by merging different disciplines in collaboration with the students' original graduate schools. 
-
 design:
   columns: '3'
 ---
