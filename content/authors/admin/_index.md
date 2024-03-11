@@ -20,7 +20,9 @@ bio: My research interests include Computational Social Science, NLP, Applied Ma
 interests:
 - Computational Social Science
 - NLP
+- Large Language Models
 - Political Communication
+- Mobility Segregation
 
 # Education to show in About widget
 education:
@@ -70,7 +72,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/CV.pdf
+  link: uploads/CV2023.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: mailto:lyu.zeyu@iss.u-tokyo.ac.jp

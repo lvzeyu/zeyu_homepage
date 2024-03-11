@@ -1,6 +1,6 @@
 ---
 title: "Disparity and Dynamics of Social Distancing Behaviors in Japan: An
-  Investigation of Mobile Phone Mobility Data "
+  Investigation of Mobile Phone Mobility Data"
 publication_types:
   - "2"
 authors:
