@@ -19,6 +19,9 @@ main:
   - name: Research Projects
     url: '#my-section'
     weight: 30
+  - name: Posts
+    url: '#posts'
+    weight: 50
 
 #  - name: Contact
 #    url: '#contact'
